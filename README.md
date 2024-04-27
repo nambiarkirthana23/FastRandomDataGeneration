@@ -56,7 +56,16 @@ $ npm run test:e2e
 
 # test coverage
 $ npm run test:cov
+
 ```
+
+
+## Installed Packages 
+npm install typeorm pg
+npm install @nestjs/typeorm typeorm
+npm install @nestjs/config
+npm install uuid
+
 
 ## Support
 
