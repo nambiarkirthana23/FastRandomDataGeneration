@@ -59,11 +59,19 @@ $ npm run test:cov
 
 ```
 
-
 ## Installed Packages 
+
+```bash
+#postgres installation
 npm install typeorm pg
+
+#typeorm  installation
 npm install @nestjs/typeorm typeorm
+
+#config installation
 npm install @nestjs/config
+
+#uid installation
 npm install uuid
 
 
